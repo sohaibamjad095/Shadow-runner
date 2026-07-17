@@ -24,6 +24,3 @@ This project was developed to improve JavaScript programming and game developmen
 
 📱 Live Demo
 
-
-👨‍💻 Author
-Muhammad Sohaib
