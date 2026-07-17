@@ -12,11 +12,13 @@ Pause functionality
 Mobile touch controls
 Dynamic difficulty progression
 Achievement milestones
+
 🛠️ Technologies Used
 HTML5 Canvas
 CSS3
 JavaScript
 Local Storage
+
 🎯 Project Purpose
 This project was developed to improve JavaScript programming and game development skills. It demonstrates concepts such as collision detection, game loops, player physics, event handling, and responsive controls.
 
