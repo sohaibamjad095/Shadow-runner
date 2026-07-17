@@ -58,7 +58,7 @@ This project was developed to improve JavaScript programming and game developmen
 
 ## 📱 Live Demo
 
-https://sohaibamjad095.github.io/Shadow-runner/
+https://sohaibamjad095.github.io/Shadow-runner
 
 ## 👨‍💻 Author
 
